@@ -1,2 +1,2 @@
 # Repository for emotion-detection ai application
-# Aproject i'm working on that detects emotion from text 
+# A project i'm working on that detects emotion from text .. in progress .. 
